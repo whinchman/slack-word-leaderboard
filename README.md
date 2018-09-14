@@ -1,6 +1,9 @@
 # slack-word-leaderboard
 A stupid node app that uses slack's search api to generate a leaderboard for a search of a specific word or phrase in all PUBLIC slack rooms.
 
+# why?
+my mom says i curse too much, so i decided to compare my foul langauge against my co-workers. turns out she was right.
+
 # to use
 * have node & npm installed
 * get a slack api auth token
