@@ -1,0 +1,16 @@
+{
+  "name": "cursecounter",
+  "version": "1.0.0",
+  "description": "counts the number of times you say a curse",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "wh",
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.5"
+  }
+}
